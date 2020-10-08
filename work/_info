@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ikaros/Documents/organization/lab6
+vALU
+Z1 !s110 1479926548
+!i10b 1
+!s100 gJBC=e8:UL^_]G>9P>n1O2
+I@boN8__GJ47dmW40LW<E22
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1479357404
+Z4 8C:/Users/ikaros/Documents/organization/lab6/library.v
+Z5 FC:/Users/ikaros/Documents/organization/lab6/library.v
+L0 11
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1479926548.000000
+Z8 !s107 constants.h|C:/Users/ikaros/Documents/organization/lab6/library.v|
+Z9 !s90 -reportprogress|30|-work|work|C:/Users/ikaros/Documents/organization/lab6/library.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vcontrol_alu
+Z11 !s110 1479926547
+!i10b 1
+!s100 :iWl@nZzCF:=Ile7TN1bH3
+IkF:I4UGikm5LDZm^7?UNX0
+R2
+R0
+Z12 w1479400127
+Z13 8C:/Users/ikaros/Documents/organization/lab6/control.v
+Z14 FC:/Users/ikaros/Documents/organization/lab6/control.v
+L0 143
+R6
+r1
+!s85 0
+31
+Z15 !s108 1479926547.000000
+Z16 !s107 constants.h|C:/Users/ikaros/Documents/organization/lab6/control.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/ikaros/Documents/organization/lab6/control.v|
+!s101 -O0
+!i113 1
+R10
+vcontrol_bypass_ex
+R11
+!i10b 1
+!s100 YE^A_:REL:C;VP[nnz`dJ2
+IF:h59BVzn0:iLclHI3Iin3
+R2
+R0
+R12
+R13
+R14
+L0 89
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+vcontrol_main
+R11
+!i10b 1
+!s100 M=DDlfmz=8m]Wj4dL7ROV1
+I5N<SH?Sl3?RUJWc14Kcg52
+R2
+R0
+R12
+R13
+R14
+L0 4
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+vcontrol_stall
+R11
+!i10b 1
+!s100 2@E<f8g6e1:I]Ca[8JaEk3
+IEoYEJ_GJUezBl3DJ2^0l51
+R2
+R0
+R12
+R13
+R14
+L0 124
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+!i113 1
+R10
+vcpu
+R1
+!i10b 1
+!s100 Yma_MOl@bdCQd[cM@7d0B0
+I8`fPHP:HeaQ=aNF;VRTnB1
+R2
+R0
+w1479661206
+8C:/Users/ikaros/Documents/organization/lab6/cpu.v
+FC:/Users/ikaros/Documents/organization/lab6/cpu.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/ikaros/Documents/organization/lab6/cpu.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ikaros/Documents/organization/lab6/cpu.v|
+!s101 -O0
+!i113 1
+R10
+vlab6_tester
+R1
+!i10b 1
+!s100 5=kKNLnoCWC>^eTR;[GZk2
+I=V2B;aQ@zToPa7>3mVoJ30
+R2
+R0
+w1479926425
+8C:/Users/ikaros/Documents/organization/lab6/lab6_tester.v
+FC:/Users/ikaros/Documents/organization/lab6/lab6_tester.v
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/ikaros/Documents/organization/lab6/lab6_tester.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ikaros/Documents/organization/lab6/lab6_tester.v|
+!s101 -O0
+!i113 1
+R10
+vMemory
+R1
+!i10b 1
+!s100 92i?QX7kclI?H?jn=LSCL0
+IOF8QUVRmgW`A]L3DO[T480
+R2
+R0
+R3
+R4
+R5
+L0 35
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@memory
+vRegFile
+R1
+!i10b 1
+!s100 _Vl4PbQ=NjQ=XXE@lgmfB0
+I0:iJ:MjMIKm0g3ZciTM]b1
+R2
+R0
+R3
+R4
+R5
+L0 68
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@reg@file
